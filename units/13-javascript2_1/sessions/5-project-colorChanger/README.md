@@ -24,7 +24,7 @@ To push to GitHub run the following commands in your terminal:
 Create an array of 6 colors with the varible name "colors"
 
 ### Step 3) Include jquery
-You'll need to include a jquery DOM in your HTML
+You'll need to include a jquery CDN in your HTML
 
 ### Step 4) Create a button
 Make a button that, when clicked, changes the background color to a new color in your array.
