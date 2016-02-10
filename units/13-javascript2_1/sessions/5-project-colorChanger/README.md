@@ -34,7 +34,7 @@ Make a button that, when clicked, prints out all of the colors that are in your 
 
 [Example](https://drive.google.com/open?id=0B0VyzyT3CZIXZVNvVlZnZWtNQW8)
 
-### Step 4) Even more buttons!
+### Step 5) Even more buttons!
 Make a button for each color in your array that changes the background to that color.
 
 [Example](https://drive.google.com/open?id=0B0VyzyT3CZIXNGhpNEgyR3oyazA)
